@@ -9,7 +9,7 @@ Explore pattern recognition with OpenCV, a powerful image processing library. Le
 ## Introduction
 Discover how OpenCV enhances images and extracts information. We'll use advanced algorithms for shape recognition.
 
-##Slide
+## Slide
 https://docs.google.com/presentation/d/1TTPhOmNZVtyvyScxTHjwgOJdXdA8X1f4c0VK7AbBfjQ/edit?usp=sharing
 
 ## Dependencies
